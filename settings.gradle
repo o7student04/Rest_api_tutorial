@@ -1,0 +1,2 @@
+rootProject.name='RestTuto'
+include ':app'
